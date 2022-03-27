@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @62Lukman
+- 👋 Hi, I’m Lukman Wicaksono
 - 👀 I’m interested in Java & Kotlin
 - 🌱 I’m currently learning Python & Flutter
 - 💞️ I’m looking to collaborate on Android Studio
